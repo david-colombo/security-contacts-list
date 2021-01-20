@@ -1,0 +1,11 @@
+{
+	"Name" :"Panasonic",
+	"Sector" : "Technology",
+	"Website" : "https://www.panasonic.com",
+	"Email" : "product-security@gg.jp.panasonic.com",
+	"Security_Link" : "https://www.panasonic.com/global/corporate/product-security/sec/psirt.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

@@ -1,0 +1,11 @@
+{
+	"Name" :"Apple",
+	"Sector" : "Technology",
+	"Website" : "https://www.apple.com",
+	"Email" : "product-security@apple.com",
+	"Security_Link" : "https://www.apple.com/support/security/",
+	"Bug_Bounty_Link" : "https://hackerone.com/apple",
+	"Request_Assistance" : "None",
+	"Verified" : 1,
+	"Last_Updated" : "03.04.2020"
+}

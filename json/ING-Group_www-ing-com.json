@@ -1,0 +1,11 @@
+{
+	"Name" :"ING Group",
+	"Sector" : "Finance",
+	"Website" : "https://www.ing.com",
+	"Email" : "responsible-disclosure@ing.com",
+	"Security_Link" : "https://www.ing.com/ING.com-Security.htm",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

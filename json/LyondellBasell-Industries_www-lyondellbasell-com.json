@@ -1,0 +1,11 @@
+{
+	"Name" :"LyondellBasell Industries",
+	"Sector" : "Chemical",
+	"Website" : "https://www.lyondellbasell.com",
+	"Email" : "None",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/lyondellbasell",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

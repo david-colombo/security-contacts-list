@@ -1,0 +1,11 @@
+{
+	"Name" :"Lowe's",
+	"Sector" : "Retail",
+	"Website" : "https://www.lowes.com",
+	"Email" : "None",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/lowes",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

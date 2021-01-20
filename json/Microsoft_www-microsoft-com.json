@@ -1,0 +1,11 @@
+{
+	"Name" :"Microsoft",
+	"Sector" : "Technology",
+	"Website" : "https://www.microsoft.com",
+	"Email" : "secure@microsoft.com",
+	"Security_Link" : "https://www.microsoft.com/en-us/msrc/bounty",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

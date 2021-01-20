@@ -1,0 +1,11 @@
+{
+	"Name" :"Tesla",
+	"Sector" : "Motor Vehicles & Parts",
+	"Website" : "https://www.tesla.com",
+	"Email" : "vulnerability@tesla.com",
+	"Security_Link" : "https://www.tesla.com/about/security",
+	"Bug_Bounty_Link" : "https://bugcrowd.com/tesla",
+	"Request_Assistance" : "None",
+	"Verified" : 1,
+	"Last_Updated" : "03.04.2020"
+}

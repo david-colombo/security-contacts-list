@@ -1,0 +1,11 @@
+{
+	"Name" :"General Dynamics",
+	"Sector" : "Aerospace & Defense",
+	"Website" : "https://www.gd.com",
+	"Email" : "gdisac@gdit.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/generaldynamicssharedr",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

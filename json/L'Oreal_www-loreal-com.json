@@ -1,0 +1,11 @@
+{
+	"Name" :"L'Oreal",
+	"Sector" : "Household Products",
+	"Website" : "https://www.loreal.com",
+	"Email" : "None",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/loreal_dp",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

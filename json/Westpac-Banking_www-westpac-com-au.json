@@ -1,0 +1,11 @@
+{
+	"Name" :"Westpac Banking",
+	"Sector" : "Finance",
+	"Website" : "https://www.westpac.com.au",
+	"Email" : "vulnerability@westpac.com.au",
+	"Security_Link" : "https://www.westpac.com.au/security/how-to-report/responsible-disclosure/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

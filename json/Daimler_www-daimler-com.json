@@ -1,0 +1,11 @@
+{
+	"Name" :"Daimler",
+	"Sector" : "Motor Vehicles & Parts",
+	"Website" : "https://www.daimler.com",
+	"Email" : "security@daimler.com",
+	"Security_Link" : "https://www.daimler.com/whitehat/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

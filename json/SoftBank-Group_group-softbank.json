@@ -1,0 +1,11 @@
+{
+	"Name" :"SoftBank Group",
+	"Sector" : "Telecommunication",
+	"Website" : "https://group.softbank",
+	"Email" : "sbbgrp-sbcsirt@g.softbank.co.jp",
+	"Security_Link" : "http://www.nca.gr.jp/member/softbank-csirt.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

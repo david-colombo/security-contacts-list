@@ -1,0 +1,11 @@
+{
+	"Name" :"AWS",
+	"Sector" : "Technology",
+	"Website" : "https://aws.amazon.com",
+	"Email" : "security@amazon.com",
+	"Security_Link" : "https://aws.amazon.com/security/vulnerability-reporting/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 1,
+	"Last_Updated" : "10.04.2020"
+}

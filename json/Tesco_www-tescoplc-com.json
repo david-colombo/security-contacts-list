@@ -1,0 +1,11 @@
+{
+	"Name" :"Tesco",
+	"Sector" : "Food & Drug Stores",
+	"Website" : "https://www.tescoplc.com",
+	"Email" : "technology.security@tesco.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "https://hackerone.com/tesco",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

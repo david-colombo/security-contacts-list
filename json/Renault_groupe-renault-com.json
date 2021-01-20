@@ -1,0 +1,11 @@
+{
+	"Name" :"Renault",
+	"Sector" : "Motor Vehicles & Parts",
+	"Website" : "https://groupe.renault.com",
+	"Email" : "alert.cyber-security@renault.com",
+	"Security_Link" : "https://group.renault.com/en/vulnerability-disclosure-policy/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

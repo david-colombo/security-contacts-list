@@ -1,0 +1,11 @@
+{
+	"Name" :"Equinor",
+	"Sector" : "Energy",
+	"Website" : "https://www.equinor.com",
+	"Email" : "csirt@equinor.com",
+	"Security_Link" : "https://www.equinor.com/en/about-us/site-info/responsible-disclosure-policy.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

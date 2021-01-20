@@ -1,0 +1,11 @@
+{
+	"Name" :"Bank of America Corp.",
+	"Sector" : "Finance",
+	"Website" : "https://www.bankofamerica.com",
+	"Email" : "security@bankofamerica.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

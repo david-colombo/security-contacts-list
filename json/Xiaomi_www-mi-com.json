@@ -1,0 +1,11 @@
+{
+	"Name" :"Xiaomi",
+	"Sector" : "Technology",
+	"Website" : "https://www.mi.com",
+	"Email" : "security@xiaomi.com",
+	"Security_Link" : "https://sec.xiaomi.com/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

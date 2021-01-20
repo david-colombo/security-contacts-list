@@ -1,0 +1,11 @@
+{
+	"Name" :"Oracle",
+	"Sector" : "Technology",
+	"Website" : "https://www.oracle.com",
+	"Email" : "secalert_us@oracle.com",
+	"Security_Link" : "https://www.oracle.com/corporate/security-practices/assurance/vulnerability/disclosure.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

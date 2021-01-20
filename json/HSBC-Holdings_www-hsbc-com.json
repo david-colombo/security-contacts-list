@@ -1,0 +1,11 @@
+{
+	"Name" :"HSBC Holdings",
+	"Sector" : "Finance",
+	"Website" : "https://www.hsbc.com",
+	"Email" : "global.csirt@hsbc.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/hsbc",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

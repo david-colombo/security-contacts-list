@@ -1,0 +1,11 @@
+{
+	"Name" :"BMW Group",
+	"Sector" : "Motor Vehicles & Parts",
+	"Website" : "https://www.bmwgroup.com",
+	"Email" : "report-vulnerabilities@bmwgroup.com",
+	"Security_Link" : "https://www.bmwgroup.com/en/general/Security.html",
+	"Bug_Bounty_Link" : "https://hackerone.com/bmwgroup",
+	"Request_Assistance" : "None",
+	"Verified" : 1,
+	"Last_Updated" : "03.04.2020"
+}

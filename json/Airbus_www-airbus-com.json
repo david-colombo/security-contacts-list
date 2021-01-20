@@ -1,0 +1,11 @@
+{
+	"Name" :"Airbus",
+	"Sector" : "Aerospace & Defense",
+	"Website" : "https://www.airbus.com",
+	"Email" : "vuln@airbus.com",
+	"Security_Link" : "https://www.airbus.com/contact-us.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

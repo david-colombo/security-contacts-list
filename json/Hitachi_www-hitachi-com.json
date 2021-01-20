@@ -1,0 +1,11 @@
+{
+	"Name" :"Hitachi",
+	"Sector" : "Technology",
+	"Website" : "https://www.hitachi.com",
+	"Email" : "hirt@hitachi.co.jp",
+	"Security_Link" : "http://www.hitachi.com/hirt/publications/hirt-pub10008/index.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

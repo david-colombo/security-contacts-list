@@ -1,0 +1,11 @@
+{
+	"Name" :"Intel",
+	"Sector" : "Technology",
+	"Website" : "https://www.intel.com",
+	"Email" : "secure@intel.com",
+	"Security_Link" : "https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

@@ -1,0 +1,11 @@
+{
+	"Name" :"Royal Dutch Shell",
+	"Sector" : "Energy",
+	"Website" : "https://www.shell.com",
+	"Email" : "cert@shell.com",
+	"Security_Link" : "https://www.shell.com/about-us/our-values/shell-global-helpline/responsible-disclosure-policy.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

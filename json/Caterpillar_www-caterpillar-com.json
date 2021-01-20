@@ -1,0 +1,11 @@
+{
+	"Name" :"Caterpillar",
+	"Sector" : "Industrial",
+	"Website" : "https://www.caterpillar.com",
+	"Email" : "productsecurity@cat.com",
+	"Security_Link" : "https://www.cat.com/en_US/support/maintenance/c/report-potential-information-security-vulnerabilities.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

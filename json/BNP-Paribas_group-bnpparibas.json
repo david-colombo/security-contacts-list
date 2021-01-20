@@ -1,0 +1,11 @@
+{
+	"Name" :"BNP Paribas",
+	"Sector" : "Finance",
+	"Website" : "https://group.bnpparibas",
+	"Email" : "csirt@bnpparibas.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/bnpparibascom",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

@@ -1,0 +1,11 @@
+{
+	"Name" :"Huawei Investment & Holding",
+	"Sector" : "Technology",
+	"Website" : "https://www.huawei.com",
+	"Email" : "psirt@huawei.com",
+	"Security_Link" : "https://www.huawei.com/en/psirt/report-vulnerabilities",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

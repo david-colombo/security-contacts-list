@@ -1,0 +1,11 @@
+{
+	"Name" :"BT Group",
+	"Sector" : "Telecommunication",
+	"Website" : "https://www.btplc.com",
+	"Email" : "security@bt.com",
+	"Security_Link" : "http://www.bt.net/ip-security.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

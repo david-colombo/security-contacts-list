@@ -1,0 +1,11 @@
+{
+	"Name" :"Roche Group",
+	"Sector" : "Health Care",
+	"Website" : "https://www.roche.com",
+	"Email" : "security@roche.com",
+	"Security_Link" : "https://diagnostics.roche.com/global/en/legal/vulnerability-and-incident-handling-policy.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

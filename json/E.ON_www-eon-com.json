@@ -1,0 +1,11 @@
+{
+	"Name" :"E.ON",
+	"Sector" : "Energy",
+	"Website" : "https://www.eon.com",
+	"Email" : "cert@eon.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "https://hackerone.com/eonsede",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

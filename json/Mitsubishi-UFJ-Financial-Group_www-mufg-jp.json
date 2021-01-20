@@ -1,0 +1,11 @@
+{
+	"Name" :"Mitsubishi UFJ Financial Group",
+	"Sector" : "Finance",
+	"Website" : "https://www.mufg.jp",
+	"Email" : "mufg_cert_pf@mufg.jp",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/mitsubishiufjtrustinte",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

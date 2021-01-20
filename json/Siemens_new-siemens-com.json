@@ -1,0 +1,11 @@
+{
+	"Name" :"Siemens",
+	"Sector" : "Industrial",
+	"Website" : "https://new.siemens.com",
+	"Email" : "cert@siemens.com",
+	"Security_Link" : "https://new.siemens.com/global/en/products/services/cert/vulnerability-process.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

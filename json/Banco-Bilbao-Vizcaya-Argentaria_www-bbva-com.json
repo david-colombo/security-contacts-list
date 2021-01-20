@@ -1,0 +1,11 @@
+{
+	"Name" :"Banco Bilbao Vizcaya Argentaria",
+	"Sector" : "Food & Drug Stores",
+	"Website" : "https://www.bbva.com",
+	"Email" : "cert.cybersecurity@bbva.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/bbva",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

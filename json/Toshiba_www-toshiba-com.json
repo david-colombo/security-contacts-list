@@ -1,0 +1,11 @@
+{
+	"Name" :"Toshiba",
+	"Sector" : "Technology",
+	"Website" : "https://www.toshiba.com",
+	"Email" : "hdq-toshiba-sirt@ml.toshiba.co.jp",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/toshiba",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

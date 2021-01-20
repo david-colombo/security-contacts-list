@@ -1,0 +1,11 @@
+{
+	"Name" :"Honeywell International",
+	"Sector" : "Industrial",
+	"Website" : "https://www.honeywell.com",
+	"Email" : "security@honeywell.com",
+	"Security_Link" : "https://www.honeywell.com/en-us/product-security",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

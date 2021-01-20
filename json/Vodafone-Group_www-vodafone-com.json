@@ -1,0 +1,11 @@
+{
+	"Name" :"Vodafone Group",
+	"Sector" : "Telecommunication",
+	"Website" : "https://www.vodafone.com",
+	"Email" : "cert@vodafone.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/vodafone",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

@@ -1,0 +1,11 @@
+{
+	"Name" :"General Motors",
+	"Sector" : "Motor Vehicles & Parts",
+	"Website" : "https://www.gm.com",
+	"Email" : "None",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "https://hackerone.com/gm",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

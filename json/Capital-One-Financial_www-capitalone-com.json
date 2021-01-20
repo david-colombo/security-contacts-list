@@ -1,0 +1,11 @@
+{
+	"Name" :"Capital One Financial",
+	"Sector" : "Finance",
+	"Website" : "https://www.capitalone.com",
+	"Email" : "responsibledisclosure@capitalone.com",
+	"Security_Link" : "https://www.capitalone.com/applications/responsible-disclosure/",
+	"Bug_Bounty_Link" : "https://hackerone.com/capital-one",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

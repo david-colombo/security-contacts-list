@@ -1,0 +1,11 @@
+{
+	"Name" :"Schneider Electric",
+	"Sector" : "Industrial",
+	"Website" : "https://www.se.com",
+	"Email" : "cybersecurity@se.com",
+	"Security_Link" : "https://www.se.com/ww/en/work/support/cybersecurity/vulnerability-policy.jsp",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

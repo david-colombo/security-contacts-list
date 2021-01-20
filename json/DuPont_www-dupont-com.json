@@ -1,0 +1,11 @@
+{
+	"Name" :"DuPont",
+	"Sector" : "Chemical",
+	"Website" : "https://www.dupont.com",
+	"Email" : "None",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/dupontnews",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

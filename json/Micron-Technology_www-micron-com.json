@@ -1,0 +1,11 @@
+{
+	"Name" :"Micron Technology",
+	"Sector" : "Technology",
+	"Website" : "https://www.micron.com",
+	"Email" : "security@micron.com",
+	"Security_Link" : "https://www.micron.com/security",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

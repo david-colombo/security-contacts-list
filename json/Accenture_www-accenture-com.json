@@ -1,0 +1,11 @@
+{
+	"Name" :"Accenture",
+	"Sector" : "Technology",
+	"Website" : "https://www.accenture.com",
+	"Email" : "res.disclosure@accenture.com",
+	"Security_Link" : "https://www.accenture.com/us-en/company-accenture-responsible-disclosure",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

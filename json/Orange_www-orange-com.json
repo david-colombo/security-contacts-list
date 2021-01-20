@@ -1,0 +1,11 @@
+{
+	"Name" :"Orange",
+	"Sector" : "Telecommunication",
+	"Website" : "https://www.orange.com",
+	"Email" : "cert@orange.com",
+	"Security_Link" : "https://www.orange.com/fr/Footer/CERT-Orange",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

@@ -1,0 +1,11 @@
+{
+	"Name" :"Telefonica",
+	"Sector" : "Telecommunications",
+	"Website" : "https://www.telefonica.com",
+	"Email" : "csirt@telefonica.com",
+	"Security_Link" : "https://www.telefonica.com/en/web/about_telefonica/privacy-centre/security",
+	"Bug_Bounty_Link" : "https://bugcrowd.com/telefonicavdp",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

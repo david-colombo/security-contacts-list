@@ -1,0 +1,11 @@
+{
+	"Name" :"Adidas",
+	"Sector" : "Apparel",
+	"Website" : "https://www.adidas-group.com",
+	"Email" : "mbx_adidas_it_secu@adidas-group.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/adidas",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

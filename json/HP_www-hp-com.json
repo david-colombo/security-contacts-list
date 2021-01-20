@@ -1,0 +1,11 @@
+{
+	"Name" :"HP",
+	"Sector" : "Technology",
+	"Website" : "https://www.hp.com",
+	"Email" : "hp-security-alert@hp.com",
+	"Security_Link" : "https://support.hp.com/us-en/document/c06144280",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

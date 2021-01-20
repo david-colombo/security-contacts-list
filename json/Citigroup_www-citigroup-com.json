@@ -1,0 +1,11 @@
+{
+	"Name" :"Citigroup",
+	"Sector" : "Finance",
+	"Website" : "https://www.citigroup.com",
+	"Email" : "responsible.disclosure@citi.com",
+	"Security_Link" : "https://online.citi.com/US/JRS/pands/detail.do?ID=ReportingVulnerability",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

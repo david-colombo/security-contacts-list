@@ -1,0 +1,11 @@
+{
+	"Name" :"Novartis",
+	"Sector" : "Health Care",
+	"Website" : "https://www.novartis.com",
+	"Email" : "None",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/novartis",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

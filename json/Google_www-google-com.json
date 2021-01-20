@@ -1,0 +1,11 @@
+{
+	"Name" :"Google",
+	"Sector" : "Technology",
+	"Website" : "https://www.google.com",
+	"Email" : "security@google.com",
+	"Security_Link" : "https://www.google.com/about/appsecurity/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 1,
+	"Last_Updated" : "10.04.2020"
+}

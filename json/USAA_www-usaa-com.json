@@ -1,0 +1,11 @@
+{
+	"Name" :"USAA",
+	"Sector" : "Finance",
+	"Website" : "https://www.usaa.com",
+	"Email" : "disclosure@usaa.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "https://bugcrowd.com/usaa",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

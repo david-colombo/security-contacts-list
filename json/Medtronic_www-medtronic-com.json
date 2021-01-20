@@ -1,0 +1,11 @@
+{
+	"Name" :"Medtronic",
+	"Sector" : "Health Care",
+	"Website" : "https://www.medtronic.com",
+	"Email" : "security@medtronic.com",
+	"Security_Link" : "https://global.medtronic.com/xg-en/product-security/coordinated-disclosure-process.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

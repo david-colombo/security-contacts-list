@@ -1,0 +1,11 @@
+{
+	"Name" :"ABB",
+	"Sector" : "Industrial",
+	"Website" : "https://new.abb.com",
+	"Email" : "cybersecurity@ch.abb.com",
+	"Security_Link" : "https://new.abb.com/about/technology/cyber-security/alerts-and-notifications",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

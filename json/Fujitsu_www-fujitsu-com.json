@@ -1,0 +1,11 @@
+{
+	"Name" :"Fujitsu",
+	"Sector" : "Technology",
+	"Website" : "https://www.fujitsu.com",
+	"Email" : "contact-security@cs.jp.fujitsu.com",
+	"Security_Link" : "https://www.fujitsu.com/global/support/products/software/security/contact/index.html",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

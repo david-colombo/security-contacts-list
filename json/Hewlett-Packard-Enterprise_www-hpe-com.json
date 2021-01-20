@@ -1,0 +1,11 @@
+{
+	"Name" :"Hewlett Packard Enterprise",
+	"Sector" : "Technology",
+	"Website" : "https://www.hpe.com",
+	"Email" : "security-alert@hpe.com",
+	"Security_Link" : "https://www.hpe.com/h41268/live/index_e.aspx?qid=11503",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

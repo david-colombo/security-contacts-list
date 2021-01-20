@@ -1,0 +1,11 @@
+{
+	"Name" :"Toronto-Dominion Bank",
+	"Sector" : "Finance",
+	"Website" : "https://www.td.com",
+	"Email" : "td.responsibledisclosure@td.com",
+	"Security_Link" : "https://www.td.com/us/en/personal-banking/security-center/submit-vulnerability-report/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

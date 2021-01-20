@@ -1,0 +1,11 @@
+{
+	"Name" :"Hanwha",
+	"Sector" : "Finance",
+	"Website" : "https://www.hanwhacorp.co.kr",
+	"Email" : "secure.cctv@hanwha.com",
+	"Security_Link" : "https://www.hanwha-security.com/fileDownload.do?fileName=1499316008269.pdf&filePath=UPLOAD_TUTRL_ATTRBT_PATH&downLoadName=Security%20Vulnerability%20Disclosure%20Policy_V1.0_170620_EN.pdf",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

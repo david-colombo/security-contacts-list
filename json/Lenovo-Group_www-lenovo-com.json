@@ -1,0 +1,11 @@
+{
+	"Name" :"Lenovo Group",
+	"Sector" : "Technology",
+	"Website" : "https://www.lenovo.com",
+	"Email" : "psirt@lenovo.com",
+	"Security_Link" : "https://support.lenovo.com/us/en/product_security",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

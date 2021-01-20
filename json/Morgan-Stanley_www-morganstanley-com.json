@@ -1,0 +1,11 @@
+{
+	"Name" :"Morgan Stanley",
+	"Sector" : "Finance",
+	"Website" : "https://www.morganstanley.com",
+	"Email" : "cybersec@morganstanley.com",
+	"Security_Link" : "https://www.morganstanley.com/vulnerability-disclosure",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

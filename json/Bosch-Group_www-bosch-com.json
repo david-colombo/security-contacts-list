@@ -1,0 +1,11 @@
+{
+	"Name" :"Bosch Group",
+	"Sector" : "Motor Vehicles & Parts",
+	"Website" : "https://www.bosch.com",
+	"Email" : "psirt@bosch.com",
+	"Security_Link" : "https://psirt.bosch.com/bosch-responsible-disclosure-policy/",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

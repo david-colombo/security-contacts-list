@@ -1,0 +1,11 @@
+{
+	"Name" :"International Business Machines (IBM)",
+	"Sector" : "Technology",
+	"Website" : "https://www.ibm.com",
+	"Email" : "psirt@us.ibm.com",
+	"Security_Link" : "https://www.ibm.com/security/secure-engineering/report.html",
+	"Bug_Bounty_Link" : "https://hackerone.com/ibm",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

@@ -1,0 +1,11 @@
+{
+	"Name" :"Credit Agricole",
+	"Sector" : "Finance",
+	"Website" : "https://www.credit-agricole.com",
+	"Email" : "cert@credit-agricole.com",
+	"Security_Link" : "None",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "https://hackerone.com/credit_agricole",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

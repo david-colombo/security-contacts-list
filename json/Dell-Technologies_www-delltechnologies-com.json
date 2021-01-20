@@ -1,0 +1,11 @@
+{
+	"Name" :"Dell Technologies",
+	"Sector" : "Technology",
+	"Website" : "https://www.delltechnologies.com",
+	"Email" : "secure@dell.com",
+	"Security_Link" : "https://www.dell.com/support/security/vulnerability-response-policy",
+	"Bug_Bounty_Link" : "https://bugcrowd.com/dell",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

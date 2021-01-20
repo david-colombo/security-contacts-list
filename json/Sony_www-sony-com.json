@@ -1,0 +1,11 @@
+{
+	"Name" :"Sony",
+	"Sector" : "Technology",
+	"Website" : "https://www.sony.com",
+	"Email" : "psirt@sony.com",
+	"Security_Link" : "https://secure.sony.net/",
+	"Bug_Bounty_Link" : "https://hackerone.com/sony",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}

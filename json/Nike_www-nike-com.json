@@ -1,0 +1,11 @@
+{
+	"Name" :"Nike",
+	"Sector" : "Apparel",
+	"Website" : "https://www.nike.com",
+	"Email" : "infosec@nike.com",
+	"Security_Link" : "https://www.nike.com/help/a/responsible-disclosure",
+	"Bug_Bounty_Link" : "None",
+	"Request_Assistance" : "None",
+	"Verified" : 0,
+	"Last_Updated" : "03.04.2020"
+}
