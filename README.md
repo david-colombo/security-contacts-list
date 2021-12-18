@@ -1,4 +1,4 @@
-# security-contact-list
+# security-contacts-list
 Security contacts of major companies for vulnerability disclosure.
 
 While doing Bug Bounty, I noticed how hard it is to find the security contacts of companies which are not on HackerOne or BugCrowd.
